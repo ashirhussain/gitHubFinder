@@ -1,0 +1,49 @@
+.card{
+    /* background-color: rgba(219, 221, 223, 0.548); */
+    border: 0.09rem solid rgb(184, 179, 179);
+border-radius: 2px;
+    padding:8px;
+    margin: 1px;
+    /* padding-right: 15px; */
+    /* display: block; */
+    text-align: center;
+    /* float: left; */
+    height: 180px;
+    /* padding: 0 10px; */
+    /* width: 25%; */
+    box-shadow: 2px 3px 4px gray;
+    font-family: 'Courier New', Courier, monospace;
+text-transform: capitalize;
+/* font-size: 16px; */
+background-image: linear-gradient( rgb(238, 236, 236), rgb(219, 218, 218));
+color: rgb(62, 62, 63);
+}
+.image{
+    border-radius: 42px;
+    height: 90px;
+    width: 90px;
+    box-shadow: 2px 2px 7px rgb(138, 137, 137);
+    
+}
+
+.more_link{
+
+
+    background-color:rgb(90, 129, 202); 
+    text-align: center;
+    height:20px;
+    width:50px;
+    margin-left: auto;
+    margin-right: auto;
+    position:center ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 3px;
+    /* text-transform: none; */
+    font-size: 13px;
+    /* text-decoration: underline; */
+    padding-top: 2px;
+}
+.more_link:hover{
+    background-color:rgb(74, 110, 177); 
+    
+}

@@ -1,0 +1,57 @@
+.textbox_button{
+    width: 100%;
+    height: 30px;
+    margin-bottom: 4px;
+    /* background-color: rgb(58, 57, 57); */
+    
+}
+.textbox_button input[type=text]{
+    width: 85%;
+    height:25px;
+    background-color: rgb(226, 231, 240);
+    border: 1px solid rgb(136, 133, 129);
+    border-radius: 12px;
+    outline: none;
+    /* margin-left:14px; */
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-right: 4px;
+    margin-left: 8px;
+    /* margin-bottom: 2px; */
+}
+.textbox_button input[type=submit]{
+    width:12%;
+    height: 29px;
+    color: rgb(247, 245, 242);
+    background-color:rgb(23, 137, 230);
+    border: 1px solid rgb(136, 133, 129);
+    border-radius: 14px;
+    margin-right: 8px;
+    outline: none;
+    /* margin-bottom: 2px; */
+
+/* padding: 4px; */
+}
+.textbox_button input[type=submit]:hover {
+    background: #0c69d3;
+  }
+  .clear{
+      width: 98%;
+      height: 25px;
+      margin-bottom: 8px;
+      /* margin-right: 10px;
+      margin-right: 10px; */
+      background-color: rgb(26, 162, 196);
+    border: 1px solid rgb(110, 110, 109);
+      
+      border-radius: 12px;
+      margin-left: 12px;
+      /* margin-right: 7px; */
+    color: rgb(247, 245, 242);
+    outline: none;
+      
+  }
+  .clear:hover{
+    background-color: rgb(24, 148, 179);
+
+  }

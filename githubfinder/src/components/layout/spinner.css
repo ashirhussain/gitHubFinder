@@ -1,0 +1,11 @@
+.spinner{
+    position: fixed;
+    left:590px;
+    top: 200px;
+    /* width: 20%; */
+    /* height:20%; */
+    /* z-index: 9999999999; */
+    overflow: hidden;
+    /* background: rgb(201, 31, 31); */
+
+}

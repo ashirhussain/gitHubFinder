@@ -1,0 +1,17 @@
+.links{
+    color: rgb(51, 18, 197);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+}
+
+.repoitems{
+ border-bottom: 1px solid rgb(136, 133, 133);
+ color: rgb(109, 107, 107);
+ font-family: 'Courier New', Courier, monospace;
+
+}
+.repoitems a{
+    color: rgb(51, 50, 50);
+    text-decoration: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifs;
+}
